@@ -1,29 +1,59 @@
 # OSS_2021-1_FinalProject
 
-가계부
+<Account Management>
 
 What does this project do?
-지출내역이나, 입금내역을 입력함으로써 계좌안에 돈이 얼마나 들어있는지
-지출내역,확인가능 입금내역 확인가능 _ 돈관리를 도와줌
+1.Saving  personal information about Account
+
+2.Records of deposits and withdrawals
+
+3. Helping you set and achieve your savings goals
+
+4. Provide environment for writing expenditure details
+    
 
 Why is this project useful?
-본인들의 씀씀이를 확인가능하여
-불필요한 지출을 줄일 수 있고, 또한 명확한 입금계획을 세워 훗날 자신이 돈을 쓰고자하는 곳에 돈을 넣을 수 있게끔 함
+1. Goal
+->Save  Money
+2. Expenditure 
+record
+->need for management
+3. show balance
+->make you aware
+ 
 
 How do I get started?
-컴파일후 실행가능
+
+First, connect to the Raspberry Pi with putty and start the program.
+ java -cp . myMoney.MyMoney     <enter this code>    
+Enter your name and simple personal information.
+You can select the function you want to use from the main menu that appears.
+Expense record category can be set first
+Target deposit amount can be set
+money deposit available
+Withdrawal possible
+expense recorder
+Check the recorded expenses
+Remaining balance can be checked
 
 
-Where can I get more help, if I need it? 
-내이메일 주소 
+
 Presentation Video (YouTube) Link
-유투브 링크
+https://www.youtube.com/watch?v=fvupkQ28w0k
 
+What is my contribution to this project?
+    
+1.Overall program design improvement
+    The original source had a strong feel to the user, 
+    but I improved the overall design to give the user a customized and private feeling.
+2.Add personal information storage menu
+    original source was a program that simply popped up a menu. 
+    I implemented the program by requiring the user's name to be entered from the start of service 
+    use to display the account name indicating that it belongs only to the user and to store personal information.
+3.Add deposit goal setting menu
+    I coded so that users can set their target deposit amount and know the rate of achievement compared to the target amount. 
+    It is also set to motivate with a message that you are doing well when you achieve it.
+4.Added rejection function 
+    Withdrawal amount>Deposit amount
+Expense Record Amount > Withdrawal Amount
 
-Clearly indicate what your contribution to your project is. 
-내가 기여한것 ? 
-1.전체적인디자인 수정 
-2.입구에서 이름입력 누구의 계좌인지 알게끔하도록
-3.돈을 withdraw할때 예금된 돈보다 많은 돈을 출금할경우 경고메시지 후 거절
-4.본인의 목표 설정_ 목표금액까지 얼마나 더 예금하면 되는지
-5.지출기록_ 변경?
