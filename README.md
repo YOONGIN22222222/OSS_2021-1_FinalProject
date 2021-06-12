@@ -46,14 +46,18 @@ What is my contribution to this project?
 1.Overall program design improvement
     The original source had a strong feel to the user, 
     but I improved the overall design to give the user a customized and private feeling.
+    
 2.Add personal information storage menu
     original source was a program that simply popped up a menu. 
     I implemented the program by requiring the user's name to be entered from the start of service 
     use to display the account name indicating that it belongs only to the user and to store personal information.
+
 3.Add deposit goal setting menu
     I coded so that users can set their target deposit amount and know the rate of achievement compared to the target amount. 
     It is also set to motivate with a message that you are doing well when you achieve it.
-4.Added rejection function 
+
+    
+ 4.Added rejection function 
     Withdrawal amount>Deposit amount
-Expense Record Amount > Withdrawal Amount
+    Expense Record Amount > Withdrawal Amount
 
