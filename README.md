@@ -1,15 +1,17 @@
 # OSS_2021-1_FinalProject
 
-<Account Management>
+Account Management
+===================
 
 What does this project do?
-1.Saving  personal information about Account
+--------------------------
+> 1.Saving  personal information about Account
 
-2.Records of deposits and withdrawals
+> 2.Records of deposits and withdrawals
 
-3. Helping you set and achieve your savings goals
+> 3. Helping you set and achieve your savings goals
 
-4. Provide environment for writing expenditure details
+> 4. Provide environment for writing expenditure details
     
 
 Why is this project useful?
