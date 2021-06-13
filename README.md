@@ -108,5 +108,9 @@ What is my contribution to this project?
 ## Presentation Video (YouTube) Link
 https://youtu.be/qdycGtv_m6k
 
+### Contribute to
+https://github.com/Talark/MyMoney-PA-PI-b.git
+
 ### Reference
+https://gist.github.com/ihoneymon/652be052a0727ad59601
 
