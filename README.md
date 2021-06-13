@@ -51,19 +51,24 @@ How do I get started?
 ### Next, You can select the function to put the letter whatever you want to use from the main menu that appears.
 <img width="238" alt="mm" src="https://user-images.githubusercontent.com/83248175/121807800-a5908180-cc90-11eb-908e-7b30324fabdf.png">
 
-*Deposit
-*Withdrawl
-*Goal setting
++ Deposit
++ Withdrawl
++ Goal setting
 <img width="306" alt="aa" src="https://user-images.githubusercontent.com/83248175/121808356-00c37380-cc93-11eb-8a74-70f9efcaf0a4.png">
 
-*Your Account Info
++ Your Account Info
 <img width="289" alt="g" src="https://user-images.githubusercontent.com/83248175/121808418-66affb00-cc93-11eb-85cb-ca37de780ab7.png">
 
-*Record Expenditure in detail
-    *make category
-    *make entry expence to category
-    *check expenditure record
-*Check Balance
++ Record Expenditure in detail
+    > make category
+    
+    > make entry expence to category
+    
+    > check expenditure record
+    
++ Check Balance
+ >> You can check ramaining money in your account & and check how much more money you need to deposit to achieve your goal.
+<img width="355" alt="q" src="https://user-images.githubusercontent.com/83248175/121808594-256c1b00-cc94-11eb-995b-2ae2af38aff7.png">
 **************************************************************
 ***************************************************************
 
@@ -94,8 +99,9 @@ What is my contribution to this project?
 > I improved the function 
 > For example, if you try to widthraw money more than deposited money, then the program rejects your quest. 
 > And also if you recorded the detailed expenditure amount more than withdrawls money my program rejects it too.. 
-  > Withdrawal amount>Deposit amount  => reject
-  > Expense Record Amount > Withdrawal Amount =>reject
+  >> Withdrawal amount>Deposit amount  => reject
+  
+  >> Expense Record Amount > Withdrawal Amount =>reject
  
 **********************************************************
 **********************************************************
